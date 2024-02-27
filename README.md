@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm passionate about software development, have been working with software since I was 14, building and programming Lego Robots, following my interest, Over the years have achieved experience working with a variety of technologies and projects, from Industrial Production Control, a contribution for an urban mobility App, marketPlace and ERP Integration, varied Solutions for the Banking Agencies, AutoShops and Dealerships, Real Estate Agencies and more. Here's a brief overview of my skills:
+I'm passionate about software development, have been working with software since I was 14, building and programming Lego Robots, following my interest, Over the years have achieved experience working with a variety of technologies and projects, from Industrial Production Control, a contribution for an urban mobility App, marketPlace and ERP Integration, varied Solutions for Banking Agencies, AutoShops and Dealerships, Real Estate Agencies and more. Here's a brief overview of my skills:
 
 - **PHP**: I have extensive experience in PHP development, building robust web applications and APIs, as well as perfoming reverse Engineering to resolve conflicts with existing Code, and refactoring solutions based on the SOLID principle.
 - **JavaScript & TypeScript**: I'm proficient in both JavaScript and TypeScript, enabling me to develop dynamic and interactive frontend applications as well as scalable backend solutions using Node.js.
